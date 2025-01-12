@@ -1,3 +1,13 @@
+//TODO
+
+//1. add funtionality to insert node at specific indices
+//2. reverse list
+//3. one line creation of node while adding to list?
+
+
+
+
+
 #include <stdio.h>
 
 struct Node{
